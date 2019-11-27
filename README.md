@@ -1,1 +1,1 @@
-# psychic-invention
+# GR5206 STAT COMP&INTRO DATA SCIENCE
